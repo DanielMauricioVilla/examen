@@ -9,7 +9,7 @@ function eje3(params) {
             seeHouse.push ("casa")
         }
     }
-    console.log(seeHouse);
+    return seeHouse;
 }
 
-eje3 ();
+console.log (eje3 ());
